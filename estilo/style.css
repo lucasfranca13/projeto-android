@@ -62,7 +62,7 @@ header > p{
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 
-nav > a{
+nav a {
     color: var(--cor1);
     padding: 10px;
     border-radius: 2px;
@@ -71,7 +71,7 @@ nav > a{
     transition-duration: 0.3s;
 }
 
-nav > a:hover{
+nav a:hover {
     background-color: var(--cor3);
     color: var(--cor5);
 }
@@ -89,7 +89,6 @@ nav {
     gap: 20px;
     padding: 10px;
 }
-
 
 main{
     min-width: 300px;
